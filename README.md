@@ -21,4 +21,4 @@ In the code I wrote the name of the photo, the size of the photo, the distance f
 
 Used two colors white as the main and black i title
 
->>>>>>> Resume
+
